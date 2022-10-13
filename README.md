@@ -24,7 +24,7 @@ experiment on KITTI-RAW dataset
 
 ## Improving map details
 
-Pointcloud colored by lasar line number.
+Pointcloud colored by laser line number.
 <img src="https://github.com/liuxiyao123/LiDAR_Intrinsics_Calib_While_Mapping/blob/main/doc/MyDataset/map_detail/road_slice_view_no_calib.png" width = "1800" align=center />
 <img src="https://github.com/liuxiyao123/LiDAR_Intrinsics_Calib_While_Mapping/blob/main/doc/MyDataset/map_detail/road_slice_view_after_calib.png" width = "1800" align=center />
 <img src="https://github.com/liuxiyao123/LiDAR_Intrinsics_Calib_While_Mapping/blob/main/doc/MyDataset/map_detail/wall_top_view_no_calib.png" width = "1800" align=center />
